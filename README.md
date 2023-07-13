@@ -20,7 +20,7 @@ In this tutorial I will outline the prerequisites and installation of the open-s
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 pro
 
 <h2>List of Prerequisites</h2>
 
